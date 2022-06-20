@@ -1,7 +1,7 @@
 # Hey 👋 <br/>
 
 ## Who am I?<br/>
-Well hey, I'm Jacco. I'm a Embedded Engineer(C/C++, Python, Make) and having a  I started out as a Electrical Engineering student, but after my graduation i started my study as Embedded Engineer at Windesheim, Zwolle.<br /><br />
+Well hey, I'm Jacco. I'm a Embedded Engineer(C/C++, Python, Make). I started out as a Electrical Engineering student, after my graduation i started my study as Embedded Engineer at Windesheim, Zwolle.<br /><br />
 Furthermore, I have many affinities for other programming languages and tools such as Python, Tensorflow, React, Flutter.<br />
 
 ## What I've been working on?<br/>
