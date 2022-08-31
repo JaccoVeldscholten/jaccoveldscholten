@@ -6,7 +6,7 @@ Furthermore, I have many affinities for other programming languages and tools su
 
 ## What I've been working on?<br/>
 I've been working on various things.<br/>
-🥙 My graduation internship at KITT Engineering<br/>
+🥙 Currently working as Junior Embedded Engineer at Benchmark in Almelo<br/>
 🌡️ My side project called [Smart Weater Meter with LoRa](https://github.com/JaccoVeldscholten/LoraWeatherStation). Something beautiful is in the works.<br/>
 ⚡ My side project called [Smart Energy Meter (P1)](https://github.com/JaccoVeldscholten/SlimmeMeterDashboard). Measuring the P1 meter.<br/>
 
